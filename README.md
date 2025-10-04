@@ -48,6 +48,10 @@ Double-click FileSorter.exe — no Python needed.
 
 Select a folder and click Sort Files to automatically organize it.
 
+Screenshot of the App
+<img width="442" height="570" alt="image" src="https://github.com/user-attachments/assets/56f1352f-4e3b-44cb-ac04-d0e69dc43ee4" />
+
+
 
 🔮 Future Enhancements
 
